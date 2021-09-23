@@ -1,6 +1,11 @@
 import os 
 import shutil
 
+image_formats = ["jpg","png","jpeg","gif","webp","tiff"]
+audio_formats = ["mp3","wav"]
+video_formats = ["mp4","avi","webm"]
+docs_formats = ["ai","ait","txt","rtf","docx","pdf","pptx"]
+
 
 while True:
 
