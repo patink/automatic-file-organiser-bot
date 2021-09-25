@@ -24,4 +24,4 @@ while True:
             elif ext in docs_formats:
                 shutil.move(file,"docs/"+file)
             else:
-                shutil.move(file,"others/"+file)
+                
